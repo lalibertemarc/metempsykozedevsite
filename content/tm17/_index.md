@@ -11,16 +11,24 @@ Metempsykoze - Anhedonia
 
 ## Changelogs
 
-### 05/01/2024
+### 2023-01-06
+
+- -2db on snare
+- added light sidechain compression on guitars triggered by vocals. this should give more clarity on vocals
+- better kick volume automation in the bridge (-2 db and more)
+- adjusted drum fills velocity in chorus
+- **Mastering** -0.2db of threshold on L2
+
+### 2023-01-05
 
 - Bass lowered in volume and low frequency
-- Vocal lowered in the bridge
+- Vocal volume lowered in the bridge
 - Added back vocals (whispered and talked) in bridge (both sections) to smooth the sound
 - Worked in chorus vocals frequency
 - Better keyboard volume automation.
 - Better vocals volume automation
 
 
-### 04/01/2024
+### 2023-01-04
 
 - New instruments arrangement in chorus
