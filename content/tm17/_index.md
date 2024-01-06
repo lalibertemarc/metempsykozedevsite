@@ -11,7 +11,7 @@ Metempsykoze - Anhedonia
 
 ## Changelogs
 
-### 2023-01-06
+### 2024-01-06
 
 - -2db on snare
 - added light sidechain compression on guitars triggered by vocals. this should give more clarity on vocals
@@ -19,7 +19,7 @@ Metempsykoze - Anhedonia
 - adjusted drum fills velocity in chorus
 - **Mastering** -0.2db of threshold on L2
 
-### 2023-01-05
+### 2024-01-05
 
 - Bass lowered in volume and low frequency
 - Vocal volume lowered in the bridge
@@ -29,6 +29,6 @@ Metempsykoze - Anhedonia
 - Better vocals volume automation
 
 
-### 2023-01-04
+### 2024-01-04
 
 - New instruments arrangement in chorus

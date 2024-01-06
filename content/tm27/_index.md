@@ -1,7 +1,7 @@
 ---
 title: "Tm27"
 date: 2024-01-06T14:52:33-05:00
-draft: true
+draft: false
 ---
 
 ## Changelogs
