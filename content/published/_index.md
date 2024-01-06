@@ -7,3 +7,6 @@ draft: false
 - [Ma Chasse Gallerie](./machassegallerie)
 - [Moving On](./movingon)
 - [Addicted to Digital](./addictedtodigital)
+- [Roadkill](./roadkill)
+- [Métempsychose](./metempsychose)
+- [Burning Sun](./burningsun)
