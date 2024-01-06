@@ -1,0 +1,30 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Metempsykoze Dev Site'
+theme = "hugo-theme-techdoc"
+
+[params]
+    menu_style = "open-menu" 
+
+[menu]
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+        identifier = 'home'
+    [[menu.main]]
+        name = "Youtube"
+        url = "https://www.youtube.com/@metempsykoze4882"
+        weight = 2
+        identifier = 'youtube'
+        [menu.main.params]
+          class = 'youtube-menu-item'
+
+[markup]
+    defaultMarkdownHandler = "goldmark"
+    [markup.goldmark.renderer]
+        unsafe= true
+    [markup.tableOfContents]
+        startLevel = 2
+        endLevel = 6
+        ordered = false
