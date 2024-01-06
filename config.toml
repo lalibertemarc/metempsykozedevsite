@@ -4,7 +4,7 @@ title = 'Metempsykoze Dev Site'
 theme = "hugo-theme-techdoc"
 
 [params]
-    menu_style = "open-menu" 
+    menu_style = "slide-menu" 
 
 [menu]
     [[menu.main]]
