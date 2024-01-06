@@ -1,4 +1,4 @@
-baseURL = 'https://sprightly-pastelito-f5b43b.netlify.app/'
+baseURL = '*'
 languageCode = 'en-us'
 title = 'Metempsykoze Dev Site'
 theme = "hugo-theme-techdoc"
