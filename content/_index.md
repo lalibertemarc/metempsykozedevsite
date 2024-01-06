@@ -5,3 +5,7 @@ draft: false
 ---
 
 # Metempsykoze Dev Site
+
+- [Marc's Project](./marcs-project)
+- [Kevin's Project](./kevins-project)
+- [Published](./published)

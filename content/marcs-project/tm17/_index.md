@@ -4,10 +4,22 @@ date: 2024-01-06T13:19:18-05:00
 draft: false
 ---
 
-# TechnoMetal 17
+## Working Title
 
+tm17
+
+## Real Title
 Metempsykoze - Anhedonia
 
+## Mastering Chain
+
+- Frequency
+- Quadrafuzz
+- F6
+- H-Comp
+- C6
+- LinMB
+- L2
 
 ## Changelogs
 
