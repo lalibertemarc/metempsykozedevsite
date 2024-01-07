@@ -16,11 +16,11 @@ buisson1
 
 ## Mastering Chain
 
-- C4
-- H-Comp
-- Magma Lil Tube
-- Thrillseeker
-- L2
+- [C4](https://www.waves.com/plugins/c4-multiband-compressor)
+- [H-Comp](https://www.waves.com/plugins/h-comp-hybrid-compressor)
+- [Magma Lil Tube](https://www.waves.com/plugins/lil-tube)
+- [Thrillseeker](https://www.kvraudio.com/product/thrillseekerxtc-by-variety-of-sound)
+- [L2](https://www.waves.com/plugins/l2-ultramaximizer)
 
 ## Lyrics
 

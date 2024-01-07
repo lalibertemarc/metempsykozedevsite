@@ -16,10 +16,10 @@ a6
 
 ## Mastering Chain
 
-- C4
-- H-Comp
-- GregWells MixCentric
-- L2
+- [C4](https://www.waves.com/plugins/c4-multiband-compressor)
+- [H-Comp](https://www.waves.com/plugins/h-comp-hybrid-compressor)
+- [GregWells MixCentric](https://www.waves.com/plugins/greg-wells-mixcentric)
+- [L2](https://www.waves.com/plugins/l2-ultramaximizer)
 
 ## Lyrics 
 

@@ -13,13 +13,13 @@ Metempsykoze - Anhedonia
 
 ## Mastering Chain
 
-- Frequency
-- Quadrafuzz
-- F6
-- H-Comp
-- C6
-- LinMB
-- L3
+- [Frequency](https://steinberg.help/nuendo_plugin_reference/v11/en/_shared/topics/plug_ref/frequency/frequency_r.html)
+- [Quadrafuzz](https://steinberg.help/cubase_plugin_reference/v9/en/_shared/topics/plug_ref/quadrafuzz_v2.html)
+- [F6](https://www.waves.com/plugins/f6-floating-band-dynamic-eq)
+- [H-Comp](https://www.waves.com/plugins/h-comp-hybrid-compressor)
+- [C6](https://www.waves.com/plugins/c6-multiband-compressor)
+- [LinMB](https://www.waves.com/plugins/linear-phase-multiband-compressor)
+- [L3](https://www.waves.com/plugins/l3-multimaximizer)
 
 ## Changelogs
 

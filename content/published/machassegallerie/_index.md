@@ -17,12 +17,12 @@ Finntroll1
 
 ## Mastering Chain
 
-- REQ6
-- Quadrafuzz
-- C4
-- LinMB
-- H-Comp
-- L3
+- [REQ6](https://www.waves.com/plugins/renaissance-equalizer)
+- [Quadrafuzz](https://steinberg.help/cubase_plugin_reference/v9/en/_shared/topics/plug_ref/quadrafuzz_v2.html)
+- [C4](https://www.waves.com/plugins/c4-multiband-compressor)
+- [LinMB](https://www.waves.com/plugins/linear-phase-multiband-compressor)
+- [H-Comp](https://www.waves.com/plugins/h-comp-hybrid-compressor)
+- [L3](https://www.waves.com/plugins/l3-multimaximizer)
 
 ## Lyrics
 ```

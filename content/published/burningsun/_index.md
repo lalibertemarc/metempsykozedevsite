@@ -16,10 +16,10 @@ gras4
 
 ## Mastering Chain
 
-- C4
-- H-Comp
-- Magma Lil Tube
-- L2
+- [C4](https://www.waves.com/plugins/c4-multiband-compressor)
+- [H-Comp](https://www.waves.com/plugins/h-comp-hybrid-compressor)
+- [Magma Lil Tube](https://www.waves.com/plugins/lil-tube)
+- [L2](https://www.waves.com/plugins/l2-ultramaximizer)
 
 ## Lyrics
 

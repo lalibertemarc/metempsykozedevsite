@@ -16,9 +16,9 @@ tm9
 
 ## Mastering Chain
 
-- C4
-- Magma Lil Tube
-- L2
+- [C4](https://www.waves.com/plugins/c4-multiband-compressor)
+- [Magma Lil Tube](https://www.waves.com/plugins/lil-tube)
+- [L2](https://www.waves.com/plugins/l2-ultramaximizer)
 
 ## Lyrics
 

@@ -16,10 +16,10 @@ tm4
 
 ## Mastering Chain
 
-- MultibandComp
-- Magma Lil Tube
-- Magneto II
-- Loudmax
+- [MultibandComp](https://steinberg.help/cubase_plugin_reference/v9/en/_shared/topics/plug_ref/multiband_compressor_r.html)
+- [Magma Lil Tube](https://www.waves.com/plugins/lil-tube)
+- [Magneto II](https://steinberg.help/cubase_plugin_reference/v9/en/_shared/topics/plug_ref/magneto2_r.html)
+- [Loudmax](https://loudmax.blogspot.com/)
 
 ## Lyrics
 

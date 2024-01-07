@@ -16,10 +16,10 @@ pasAmon2
 
 ## Mastering Chain
 
-- C4
-- H-Comp
-- REQ6
-- L2
+- [C4](https://www.waves.com/plugins/c4-multiband-compressor)
+- [H-Comp](https://www.waves.com/plugins/h-comp-hybrid-compressor)
+- [REQ6](https://www.waves.com/plugins/renaissance-equalizer)
+- [L2](https://www.waves.com/plugins/l2-ultramaximizer)
 
 ## Lyrics
 
