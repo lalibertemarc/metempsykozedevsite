@@ -19,11 +19,21 @@ Metempsykoze - Anhedonia
 - H-Comp
 - C6
 - LinMB
-- L2
+- L3
 
 ## Changelogs
 
-### 2024-01-06
+### 2024-01-06 B
+
+- -2db on all guit leads
+- -1db on left guit lead in chorus
+- +0.5db on right guit lead in chorus
+- fixed bridge left lead guit not being mixed properly
+- -1db on drum overheads
+- better guit lead volume automation in chorus
+- **Mastering** Switched L2 for L3
+
+### 2024-01-06 A
 
 - -2db on snare
 - added light sidechain compression on guitars triggered by vocals. this should give more clarity on vocals

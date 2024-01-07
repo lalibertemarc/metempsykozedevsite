@@ -6,7 +6,13 @@ draft: false
 
 ## Changelogs
 
-### 2024-01-06
+### 2024-01-06 B
+
+- Added drums
+- -1db on arp synth in bridge
+
+
+### 2024-01-06 A
 
 - Better Guit and Bass performance
 
