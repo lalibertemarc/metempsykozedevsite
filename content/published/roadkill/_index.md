@@ -1,6 +1,6 @@
 ---
 title: "Roadkill"
-date: 2024-01-06T13:19:59-05:01
+date: 2023-06-18
 draft: false
 ---
 
@@ -20,3 +20,31 @@ pasAmon2
 - H-Comp
 - REQ6
 - L2
+
+## Lyrics
+
+```
+Verse 1
+Through winding roads, we claim our way
+Fueled by ambition, we seize the day
+With every mile, our spirits rise
+The road, our ultimate prize
+
+(Chorus)
+Roadkill, they lie along the way
+Lost souls, forsaken in disarray
+Roadkill, their dreams left to decay
+The fallen, mere casualties of yesterday
+
+Verse 2
+Through storms of doubt, we persevere
+we march on, we banish fear
+No roadkill shall mark our way
+We embrace the road, come what may
+
+(Bridge)
+In the rearview mirror, their faces blur
+Those who settled, their dreams interred
+We press on, unyielding and strong
+Fueling our souls with the road's eternal song
+```

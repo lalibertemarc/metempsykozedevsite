@@ -1,6 +1,6 @@
 ---
 title: "Addicted to Digital"
-date: 2024-01-06T13:19:59-05:01
+date: 2023-07-02
 draft: false
 ---
 
@@ -20,3 +20,34 @@ tm12
 - H-Comp
 - GregWells MixCentric
 - L2
+
+## Lyrics
+```
+Verse 1 :
+Once creators, now consumers we've turned
+Seeking, the fires have burned
+Our ambition's replaced by complacency
+we surrender to this fallacy
+
+Pre-chorus : 
+Attention span dwindling, 
+Focus dissipating
+
+Chorus:
+Slaves to the digital, our spirits confined
+Enslaved, in the wires entwined
+Addicted to digital, a craving embrace
+Humanity entangled, an endless chase
+
+Verse 2:
+The gears of progress, they spin with might
+Yet our minds grow dull, day and night
+Wires suffocate, desires silenced
+and still our spirits lose their will
+
+Bridge :
+Within the grip of addiction, a sliver of hope
+Embracing the courage to break the slope
+Escaping the clutches of the digital world
+Reclaiming our freedom, a story to be told
+```

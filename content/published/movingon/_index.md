@@ -1,6 +1,6 @@
 ---
 title: "Moving On"
-date: 2024-01-06T13:19:59-05:01
+date: 2023-07-23
 draft: false
 ---
 
@@ -20,3 +20,37 @@ a6
 - H-Comp
 - GregWells MixCentric
 - L2
+
+## Lyrics 
+
+```
+Verse 1
+Is there any great power that could
+Give me the strenght to revive?
+This could be the right time
+To prove them my real and true nature
+Cause now, am I really worth it?
+i feel like i could really use this
+but it's all too far, so very far away from me
+
+Verse 2
+But this power never came
+And forever dead I am, 
+i think im pretty sure of it
+but wait Why am I walking?
+From the time I was alive
+I used to be someone
+But now, I have become something
+Even greater than i thought
+
+outro
+Will you ever understand?
+With these shadows in your head
+Will you cry to make you see
+That you dont need this to be free
+
+Now I do understand
+this was never meant to be
+it should never have been mine
+this was always out of line
+```
