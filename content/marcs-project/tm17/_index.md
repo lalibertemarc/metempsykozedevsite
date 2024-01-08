@@ -23,6 +23,12 @@ Metempsykoze - Anhedonia
 
 ## Changelogs
 
+### 2024-01-07
+
+- snare volume is significantly lower (-4b), especially in the bridge (-7db)
+- better mix of pre chorus vocals
+- **Mastering** -.4 threshold on L3
+
 ### 2024-01-06 B
 
 - -2db on all guit leads
