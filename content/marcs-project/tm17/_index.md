@@ -23,6 +23,13 @@ Metempsykoze - Anhedonia
 
 ## Changelogs
 
+### 2024-01-08
+
+- +2db on intense bridge vocals
+- -1db on guitars in bridge
+- better guitar volume automation in chorus
+- better mix of pre chorus vocals (again...)
+
 ### 2024-01-07
 
 - snare volume is significantly lower (-4b), especially in the bridge (-7db)
