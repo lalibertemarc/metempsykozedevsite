@@ -12,7 +12,6 @@ draft: false
 - started work on vst
 - added bass and guit shit track
 
-
 ### 2024-01-07
 
 - Added midi files

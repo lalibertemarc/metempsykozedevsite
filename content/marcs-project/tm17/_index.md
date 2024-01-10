@@ -9,6 +9,7 @@ draft: false
 tm17
 
 ## Real Title
+
 Metempsykoze - Anhedonia
 
 ## Mastering Chain
@@ -62,7 +63,6 @@ Metempsykoze - Anhedonia
 - Worked in chorus vocals frequency
 - Better keyboard volume automation.
 - Better vocals volume automation
-
 
 ### 2024-01-04
 

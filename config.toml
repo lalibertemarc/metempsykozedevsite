@@ -19,6 +19,20 @@ theme = "hugo-theme-techdoc"
         identifier = 'youtube'
         [menu.main.params]
           class = 'youtube-menu-item'
+    [[menu.main]]
+        name = "Instagram"
+        url = "https://www.instagram.com/metempsykozemetal/"
+        weight = 3
+        identifier = 'instagram'
+        [menu.main.params]
+          class = 'instagram-menu-item'
+    [[menu.main]]
+        name = "TikTok"
+        url = "https://www.tiktok.com/@metempsykoze"
+        weight = 4
+        identifier = 'tiktok'
+        [menu.main.params]
+          class = 'tiktok-menu-item'
 
 [markup]
     defaultMarkdownHandler = "goldmark"

@@ -1,20 +1,18 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Tm20"
+date: 2024-01-09
 draft: false
 ---
 
 ## Working Title
 
-TBD
-
 ## Mastering Chain
-
-TBD
 
 ## Changelogs
 
-### {{.Date}}
+### 2024-01-09
+
+- added no drums version
 
 ## Lyrics
 

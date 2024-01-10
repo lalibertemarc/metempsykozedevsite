@@ -21,3 +21,5 @@ In priority order
 - [Demo2](./kevins-project/demo2)
 - [Tm27](./marcs-project/tm27)
 - [Dream](./kevins-project/dream)
+- [Tm20](./marcs-project/tm20)
+- [Tm26](./marcs-project/tm26)
