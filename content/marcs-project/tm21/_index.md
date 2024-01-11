@@ -12,3 +12,7 @@ tm21
 ## Changelogs
 
 
+### 2024-01-10
+
+- Added drum and bass
+- Added fx on guitars in intro
