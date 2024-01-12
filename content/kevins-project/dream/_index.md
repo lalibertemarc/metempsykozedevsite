@@ -7,6 +7,12 @@ draft: false
 
 ## Changelogs
 
+### 2024-01-11
+
+- better bass performance and recording
+- better guitar recording
+- added bass and guitars in the first part
+
 ### 2024-01-08
 
 - started work on vst
