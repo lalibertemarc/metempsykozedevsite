@@ -11,6 +11,11 @@ tm21
 
 ## Changelogs
 
+### 2024-01-11
+
+- Reduce inputs of all instruments in Archetype Gojira
+- added low boost on bass
+- added compression on snare
 
 ### 2024-01-10
 
