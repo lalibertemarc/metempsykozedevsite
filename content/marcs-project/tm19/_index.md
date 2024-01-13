@@ -14,6 +14,17 @@ Metempsykoze - Cold Tomorrow
 
 ## Changelogs
 
+### 2024-01-12
+
+- better guitar performance in verse
+
+### 2024-01-12
+
+- removed some synth bass
+- reduced all archetype gojira inputs
+- better bass performance
+
+
 ### 2023-12-31
 
 - added drums
