@@ -24,7 +24,16 @@ Metempsykoze - Anhedonia
 
 ## Changelogs
 
-### 2024-01-13
+### 2024-01-13 B
+
+- reduce volume of toms and drums overall
+- reduce volume of bass
+- vocal verse a bit less boomy
+- **Mastering** increased compression on h-comp
+- **Mastering** adjusted l3 accordingly
+- **Mastering** removed l3 automation
+
+### 2024-01-13 A
 
 - Reduce inputs on all Archetype Gojiras
 - Reduced some back vocal volumes in chorus
