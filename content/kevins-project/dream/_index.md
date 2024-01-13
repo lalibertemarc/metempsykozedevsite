@@ -6,6 +6,11 @@ draft: false
 
 ## Changelogs
 
+### 2024-01-12
+
+- better bass performance in the intro
+- better keyboard arrangments
+
 ### 2024-01-11
 
 - better bass performance and recording
