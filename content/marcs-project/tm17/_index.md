@@ -15,7 +15,7 @@ Metempsykoze - Anhedonia
 ## Mastering Chain
 
 - [Frequency](https://steinberg.help/nuendo_plugin_reference/v11/en/_shared/topics/plug_ref/frequency/frequency_r.html)
-- [Quadrafuzz](https://steinberg.help/cubase_plugin_reference/v9/en/_shared/topics/plug_ref/quadrafuzz_v2.html)
+- [Imager](https://steinberg.help/nuendo_plugin_reference/v11/en/_shared/topics/plug_ref/imager_r.html)
 - [F6](https://www.waves.com/plugins/f6-floating-band-dynamic-eq)
 - [H-Comp](https://www.waves.com/plugins/h-comp-hybrid-compressor)
 - [C6](https://www.waves.com/plugins/c6-multiband-compressor)
@@ -23,6 +23,15 @@ Metempsykoze - Anhedonia
 - [L3](https://www.waves.com/plugins/l3-multimaximizer)
 
 ## Changelogs
+
+### 2024-01-13
+
+- Reduce inputs on all Archetype Gojiras
+- Reduced some back vocal volumes in chorus
+- Reduced some back vocal volumes in bridge
+- removed some synth bass
+- **Mastering** replaced quadrafuzz by imager
+- **Mastering** -1db on L3 Threshold
 
 ### 2024-01-08
 
