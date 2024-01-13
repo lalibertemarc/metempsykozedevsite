@@ -11,6 +11,13 @@ tm21
 
 ## Changelogs
 
+### 2024-01-12
+
+- removed synth bass
+- better bass performance
+- more punch in toms
+- low boost on kick
+
 ### 2024-01-11
 
 - Reduce inputs of all instruments in Archetype Gojira
