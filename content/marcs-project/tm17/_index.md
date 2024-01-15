@@ -24,6 +24,14 @@ Metempsykoze - Anhedonia
 
 ## Changelogs
 
+### 2024-01-14
+
+- removed fx strings in chorus first part
+- removed lead guit in chorus first part
+- increase drums overheads volume
+- better eq on drum oh and room channels
+
+
 ### 2024-01-13 B
 
 - reduce volume of toms and drums overall
@@ -134,13 +142,13 @@ I've tried to break the chains,
 but apathy in my veins remains,
 echoes of laughter turn to strains.
 
-No tears left for the sorrow,
+no hope is left for the sorrow,
 no hope for a better tomorrow,
 in this emptiness, I borrow.
 
 Bridge :
 Only when I throw it all away
-am i able the see myself astray
+am i able to see myself astray
 only then i can feel joy again
 and my life is now without the pain
 ```
