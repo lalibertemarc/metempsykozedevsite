@@ -14,10 +14,13 @@ Metempsykoze - Cold Tomorrow
 
 ## Changelogs
 
+### 2024-01-19
+
+- better bass performance with a darker tone
+
 ### 2024-01-16
 
 - better guitar performance and recording in a lot more places
-
 
 ### 2024-01-13
 
