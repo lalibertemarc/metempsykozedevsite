@@ -32,7 +32,6 @@ Metempsykoze - Cold Tomorrow
 - reduced all archetype gojira inputs
 - better bass performance
 
-
 ### 2023-12-31
 
 - added drums
