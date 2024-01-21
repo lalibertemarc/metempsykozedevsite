@@ -14,7 +14,6 @@ draft: false
 
 In priority order
 
-- [Tm17](./marcs-project/tm17/)
 - [Demo10](./kevins-project/demo10/)
 - [Tm21](./marcs-project/tm21/)
 - [Tm19](./marcs-project/tm19/)
