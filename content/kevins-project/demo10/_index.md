@@ -8,7 +8,17 @@ draft: false
 
 demo10
 
+## Real Title
+
+Metempsykoze - Le Froid (?)
+
 ## Changelogs
+
+### 2024-01-21
+
+- reduced archetype gojiras inputs
+- started mix session
+- added sound fx
 
 ### 2023-12-04
 
