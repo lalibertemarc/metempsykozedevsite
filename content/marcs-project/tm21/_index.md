@@ -11,6 +11,17 @@ tm21
 
 ## Changelogs
 
+### 2024-01-25
+
+- better overall mix
+- removed low boost on bass
+- lowered bass volume
+- better compression on rythm guitar
+- downmixed synth vsts
+- removed fx on pads
+- cleaned up cubase session
+
+
 ### 2024-01-12
 
 - removed synth bass
