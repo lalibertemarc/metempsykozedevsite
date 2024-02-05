@@ -17,7 +17,7 @@ tm21
 - removed low boost on bass
 - lowered bass volume
 - better compression on rythm guitar
-- downmixed synth vsts
+- bounced synth vsts
 - removed fx on pads
 - cleaned up cubase session
 
