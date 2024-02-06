@@ -14,6 +14,11 @@ TBD
 
 ## Changelogs
 
+### 2024-02-05
+
+- added some guit2 parts
+- adjusted mix for 2 guits
+
 ### 2024-02-04
 
 - added preprod version with guit 1
