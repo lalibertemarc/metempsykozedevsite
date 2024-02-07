@@ -14,6 +14,12 @@ Metempsykoze - Le Froid (?)
 
 ## Changelogs
 
+### 2024-01-22
+
+- better compression on toms
+- bass volume automation in verse 1
+- better fx
+
 ### 2024-01-21
 
 - reduced archetype gojiras inputs
