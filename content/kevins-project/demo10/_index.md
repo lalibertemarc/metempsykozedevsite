@@ -14,6 +14,11 @@ Metempsykoze - Le Froid (?)
 
 ## Changelogs
 
+### 2024-02-08
+
+- added vocals
+*note* : cubase mix project is starting to be corrupted but seems to be still workable
+
 ### 2024-01-22
 
 - better compression on toms
