@@ -15,6 +15,19 @@ Metempsykoze - Blizzard Glacial (?)
 
 ## Changelogs
 
+### 2024-02-10
+
+- -1.2db on vocals
+- added sidechain compression on guitars triggered by vocals
+- better guitar compression (added cla-3a)
+- added slight low pass on guitars
+- -2db on high bridge back vocals (stew)
+- -0.7db on bass in verse1
+- increased high on parallax (bass)
+- better edit on chorus vocal when transitionning to last lines
+- reduced mud on wind sfx
+- increased volume and added imager on arp synth lead
+
 ### 2024-02-09
 
 - better compression on bridge back vocals
@@ -40,7 +53,7 @@ Metempsykoze - Blizzard Glacial (?)
 
 ### 2024-01-22
 
-- better compression on toms
+- better compression on toms (added ny compression send)
 - bass volume automation in verse 1
 - better fx
 
