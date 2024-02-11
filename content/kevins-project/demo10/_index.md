@@ -15,7 +15,13 @@ Metempsykoze - Blizzard Glacial (?)
 
 ## Changelogs
 
-### 2024-02-10
+### 2024-02-10 pm
+
+- added cla-3a on vocals channel
+- removed one guitar in the intro guitar sound fx
+- added volume automation on verse 2 low vocals
+
+### 2024-02-10 am
 
 - -1.2db on vocals
 - added sidechain compression on guitars triggered by vocals
