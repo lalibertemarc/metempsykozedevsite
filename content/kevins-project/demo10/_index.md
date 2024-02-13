@@ -15,6 +15,19 @@ Metempsykoze - Blizzard Glacial (?)
 
 ## Changelogs
 
+### 2024-02-12
+
+- *guitars*
+  - better sidechain compression of vocals over guitar
+- *drums*   
+  - added kick sidechain frequency over bass    
+  - reduced snare volume (-2db)
+
+### 2024-02-11
+
+- fixed keys track not being routed properly in keys group channel
+- removed ny compression from keys routing
+
 ### 2024-02-10 pm
 
 - added cla-3a on vocals channel
