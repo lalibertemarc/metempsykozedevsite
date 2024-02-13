@@ -11,6 +11,37 @@ tm21
 
 ## Changelogs
 
+### 2024-02-12
+
+- *keys*
+  - added arp sidechain frequency over pad
+  - adjusted pad volume accordingly
+- *drums*
+  - added kick sidechain frequency over bass 
+  - adjusted bass volume accordingl
+  - better compression on toms
+  - added toms volume automation
+  - added high pass on snare
+- *cubase session*
+  - fixed some bad routings
+  - reorganized mixing view
+
+### 2024-02-11
+
+- *guitars*
+  - changed edit on git leads in the first half
+  - fixed missing inputs reduction on guit1 for archetype gojira
+  - added cla-3a on guit leads
+  - better fx on odin guitars
+- *keys*
+  - added high pass automation on arp lead
+- *drums*
+  - added sslchannel compression on kick
+  - added high pass 40hz on kick
+  - added bass boost automation on kick
+  - better compression on toms
+  - added high pass on toms
+
 ### 2024-01-25
 
 - better overall mix
@@ -20,7 +51,6 @@ tm21
 - bounced synth vsts
 - removed fx on pads
 - cleaned up cubase session
-
 
 ### 2024-01-12
 
