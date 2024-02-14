@@ -11,9 +11,30 @@ demo10
 ## Real Title
 
 Metempsykoze - Le Froid (?)
+
 Metempsykoze - Blizzard Glacial (?)
 
 ## Changelogs
+
+### 2024-02-13
+
+- *vocals*
+  - added high chorus sidechain frequency over gras chorus
+  - added volume automation on high chorus
+  - reduced volume on all chorus (-1.2db)
+  - added smooth operator on vocal intro 
+- *guitars*
+  - some tweaks to the vocal sidechain
+  - added puigtec eqpa1 on bass
+  - added back the frequency internal side chain on guitars for palm mute
+- *keys*
+  - added arp lead sidechain frequency over string ensemble
+  - new pizz track, added l2 on pizz
+- *drums*   
+  - some tweaks to the bass sidechain
+  - added puigtec eqpa1 on kick (dont feel like i need it on snare)
+  - added high pass on all OH and room drum channels
+  - increased volume on drum oh and rooms (+2db)
 
 ### 2024-02-12
 
