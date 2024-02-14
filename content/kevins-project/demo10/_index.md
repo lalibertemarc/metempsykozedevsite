@@ -32,7 +32,7 @@ Metempsykoze - Blizzard Glacial (?)
   - new pizz track, added l2 on pizz
 - *drums*   
   - some tweaks to the bass sidechain
-  - added puigtec eqpa1 on kick (dont feel like i need it on snare)
+  - added puigtec eqpa1 on kick
   - added high pass on all OH and room drum channels
   - increased volume on drum oh and rooms (+2db)
 

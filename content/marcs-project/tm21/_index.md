@@ -8,8 +8,23 @@ draft: false
 
 tm21
 
-
 ## Changelogs
+
+### 2024-02-13
+
+- *guitars*
+  - reduced bass volume (-2db)
+  - reduced rythm guit volume (-2db)
+- *keys*
+  - added volume automation on keys channel
+- *drums*
+  - reduced volume of toms in the begining (-2db)
+  - added c1 on snare
+  - added puigtec eqpa1 on kick
+  - removed rbass on kick
+  - adjusted volume on both accordingly
+  - increased all snares velocity
+
 
 ### 2024-02-12
 
