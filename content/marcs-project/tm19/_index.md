@@ -14,6 +14,28 @@ Metempsykoze - Cold Tomorrow
 
 ## Changelogs
 
+### 2024-02-14
+
+- *vocals*
+  - added vocal templates on main chorus (tracks from an old project)
+  - added sidechain frequency on guitars (for practice purpose)
+- *keys*
+  - removed reverb from piano vst
+- *guitars*
+  - removed cringe intro riff in the verse
+  - added high pass on rythm guit
+  - added low pass on rythm guit
+  - added internal frequency sidechain for palm mutes on mid only
+- *bass*
+  - fixed routing being in rythm guitars (wtf...)
+  - removed rbass
+  - added puigtech epa1 on bass
+- *drums*
+  - added kick sidechain frequency over bass
+  - increased kick volume (+2.5db)
+  - added high pass on oh and room channels
+  - better compression on toms (added cla-76)
+
 ### 2024-01-19
 
 - better bass performance with a darker tone
