@@ -6,22 +6,19 @@ draft: false
 
 # Metempsykoze Dev Site
 
-- [Marc's Project](./marcs-project/)
-- [Kevin's Project](./kevins-project/)
-- [Published](./published/)
 
 ## Current Work in Progess
 
 In priority order
 
-- [Demo10](./kevins-project/demo10/)
-- [Tm21](./marcs-project/tm21/)
-- [Tm19](./marcs-project/tm19/)
-- [Demo2](./kevins-project/demo2/)
-- [Tm27](./marcs-project/tm27/)
-- [Dream](./kevins-project/dream/)
-- [Demo5](./kevins-project/demo5/)
-- [OrBleu](./kevins-project/orbleu/)
-- [Tm20](./marcs-project/tm20/)
-- [Tm26](./marcs-project/tm26/)
-- [Tm7](./marcs-project/tm7/)
+- [Demo10](./demo10/)
+- [Tm21](./tm21/)
+- [Tm19](./tm19/)
+- [Demo2](./demo2/)
+- [Tm27](./tm27/)
+- [Dream](./dream/)
+- [Demo5](./demo5/)
+- [OrBleu](./orbleu/)
+- [Tm20](./tm20/)
+- [Tm26](./tm26/)
+- [Tm7](./tm7/)
