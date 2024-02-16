@@ -16,6 +16,14 @@ Metempsykoze - Blizzard Glacial (?)
 
 ## Changelogs
 
+### 2024-02-14
+
+- *guitars*
+  - removed bass volume automation in the first verse
+- *sfx*
+  - louder and clearer sfx
+  - explosions is back right on time
+
 ### 2024-02-13
 
 - *vocals*
