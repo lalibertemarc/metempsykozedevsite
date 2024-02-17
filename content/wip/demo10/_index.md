@@ -16,7 +16,15 @@ Metempsykoze - Blizzard Glacial (?)
 
 ## Changelogs
 
-### 2024-02-14
+### 2024-02-16
+
+- *vocals*
+  - increased volume (0.3db)
+  - drastically increased strength of all DeEssers
+- *guitars*
+  - recuced bass volume (-1db)
+
+### 2024-02-15
 
 - *guitars*
   - removed bass volume automation in the first verse
