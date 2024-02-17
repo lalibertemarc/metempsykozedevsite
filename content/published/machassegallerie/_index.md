@@ -24,6 +24,18 @@ Finntroll1
 - [H-Comp](https://www.waves.com/plugins/h-comp-hybrid-compressor)
 - [L3](https://www.waves.com/plugins/l3-multimaximizer)
 
+## Vsts
+
+- Legatos: [EW Symphonic Orchestra Gold](https://www.soundsonline.com/orchestral/symphonic-orchestra)
+- Marcattos: [EW Symphonic Orchestra Gold](https://www.soundsonline.com/orchestral/symphonic-orchestra)
+- Choir: [EW Symphonic Choirs Gold](https://www.soundsonline.com/vocals/symphonic-choirs)
+- Bag Pipes: [EW Ra](https://www.soundsonline.com/world-and-traditional/ra)
+- Synth Lead 1: [Pigments](https://www.arturia.com/products/software-instruments/pigments/overview)
+- Synth Lead 2: [Pigments](https://www.arturia.com/products/software-instruments/pigments/overview)
+- Synth Lead 3: [Pigments](https://www.arturia.com/products/software-instruments/pigments/overview)
+- Synth Pluck: [Surge XT](https://surge-synthesizer.github.io/)
+- Bass: [Kraken Hybrid Bass](https://solemntones.com/products/kraken-hybrid-bass)
+
 ## Lyrics
 ```
 Main hook
