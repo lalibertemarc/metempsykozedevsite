@@ -14,6 +14,21 @@ Metempsykoze - Le Froid (?)
 
 Metempsykoze - Blizzard Glacial (?)
 
+## Mastering Chain
+
+- [Frequency](https://steinberg.help/nuendo_plugin_reference/v11/en/_shared/topics/plug_ref/frequency/frequency_r.html)
+- [Puig Tec Eq](https://www.waves.com/plugins/puigtec-eqs)
+- [Quadrafuzz](https://steinberg.help/cubase_plugin_reference/v9/en/_shared/topics/plug_ref/quadrafuzz_v2.html)
+- [Kramer Master Tape](https://www.waves.com/plugins/kramer-master-tape)
+- [H-Comp](https://www.waves.com/plugins/h-comp-hybrid-compressor)
+- [C6](https://www.waves.com/plugins/c6-multiband-compressor)
+- [VComp](https://www.waves.com/plugins/v-comp)
+- [LinMB](https://www.waves.com/plugins/linear-phase-multiband-compressor)
+- [L3](https://www.waves.com/plugins/l3-multimaximizer)
+
+## Notes for mastering
+
+
 ## Vsts 
 
 - Choir: [EW Symphonic Choirs Gold](https://www.soundsonline.com/vocals/symphonic-choirs)
@@ -29,7 +44,45 @@ Metempsykoze - Blizzard Glacial (?)
 - Synth Wind: [Pigments](https://www.arturia.com/products/software-instruments/pigments/overview)
 - Drums: [Drums Against Humanity](https://ugritone.com/collections/drums-against-humanity)
 
+## Main Vocal Chain:
+
+- [Frequency](https://steinberg.help/nuendo_plugin_reference/v11/en/_shared/topics/plug_ref/frequency/frequency_r.html)
+- [DeEsser](https://steinberg.help/cubase_plugin_reference/v9/en/_shared/topics/plug_ref/deesser_r.html)
+- [RVox](https://www.waves.com/plugins/renaissance-vox)
+- [Smooth Operator](https://babyaud.io/smooth-operator-plugin)
+- [CLA-76](https://www.waves.com/plugins/cla-76-compressor-limiter)
+
+
 ## Changelogs
+
+### 2024-02-17
+
+- Added Mastering
+
+Mix :
+
+- *vocals*
+  - added micro volume automation on all verses
+  - added micro volume automation on intro
+  - added micro volume automation on gras chorus
+  - better progression of whispered vocals on all chorus
+  - added volume automation on gras chorus when its alone
+  - reduced intro volume (-1db)
+  - reduced chorus volume (-0.3db)
+  - reduced screams volume (-1db)
+  - reduced bridge volume (-1.3db)
+  - darker eq on all main bridge vocals
+  - better eq on gras chorus
+  - increased all chorus volume (+0.3db)
+- *drums*
+  - reduced toms volume (-1.3db)
+  - better eq on toms
+  - better compression on toms
+- *keys*
+  - reduced all keys volume (-1db)
+- *sfx*
+  - reduced volume of transition sfx (-2db)
+  - reduced the synth sweep even more (-5db total)
 
 ### 2024-02-16
 
@@ -113,14 +166,6 @@ Metempsykoze - Blizzard Glacial (?)
 ### 2024-02-08
 
 - added vocals
-
-**Main Vocal Chain**:
-
-- Frequency
-- DeEsser
-- RVox
-- Smooth Operator
-- CLA-76
 
 ### 2024-01-22
 
