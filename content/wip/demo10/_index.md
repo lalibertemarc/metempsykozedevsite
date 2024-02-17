@@ -14,6 +14,21 @@ Metempsykoze - Le Froid (?)
 
 Metempsykoze - Blizzard Glacial (?)
 
+## Vsts 
+
+- Choir: [EW Symphonic Choirs Gold](https://www.soundsonline.com/vocals/symphonic-choirs)
+- Medium String Hits 1: [Iconica Sketch](https://www.steinberg.net/vst-instruments/iconica-sketch/)
+- Medium String Hits 2: [EW Symphonic Orchestra Gold](https://www.soundsonline.com/orchestral/symphonic-orchestra)
+- Pizzicatos: [Iconica Sketch](https://www.steinberg.net/vst-instruments/iconica-sketch/)
+- String Ensemble: [EW Symphonic Orchestra Gold](https://www.soundsonline.com/orchestral/symphonic-orchestra)
+- Arp Lead: [Pigments](https://www.arturia.com/products/software-instruments/pigments/overview)
+- Synth Strings: [OP-XA V](https://www.arturia.com/products/software-instruments/op-xa-v/overview)
+- Synth Guitars : [Odin 2](https://solemntones.com/products/odin)
+- Synth Alarm: [Pigments](https://www.arturia.com/products/software-instruments/pigments/overview)
+- Synth Sweep: [Prophet-5v](https://www.arturia.com/products/software-instruments/prophet-5-v/overview)
+- Synth Wind: [Pigments](https://www.arturia.com/products/software-instruments/pigments/overview)
+- Drums: [Drums Against Humanity](https://ugritone.com/collections/drums-against-humanity)
+
 ## Changelogs
 
 ### 2024-02-16
