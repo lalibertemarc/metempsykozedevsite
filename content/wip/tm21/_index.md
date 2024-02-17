@@ -11,7 +11,7 @@ tm21
 ## Vsts 
 
 - Synth Pad High:  [Solina-v](https://www.arturia.com/products/software-instruments/solina-v/overview)
-- Synth Pad Low: [Mini-v](https://www.arturia.com/products/analog-classics/mini-v)
+- Synth Pad Low: [Mini-v](https://www.arturia.com/products/software-instruments/mini-v/overview)
 - Synth Arp: [Prophet 5v](https://www.arturia.com/products/software-instruments/prophet-5-v/overview)
 - Synth Guitars : [Odin 2](https://solemntones.com/products/odin)
 - Drums: [Drums Against Humanity](https://ugritone.com/collections/drums-against-humanity)

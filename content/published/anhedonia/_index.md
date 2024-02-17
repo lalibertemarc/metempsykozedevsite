@@ -34,7 +34,7 @@ Metempsykoze - Anhedonia
 - Drums: [Drums Against Humanity](https://ugritone.com/collections/drums-against-humanity)
 - Choir : [EW Symphonic Choirs Gold](https://www.soundsonline.com/vocals/symphonic-choirs)
 - Legatos: [EW Symphonic Orchestra Gold](https://www.soundsonline.com/orchestral/symphonic-orchestra)
-- Synth Bass: [Arp 2600-V](https://www.arturia.com/products/analog-classics/arp2600v)
+- Synth Bass: [Arp 2600-V](https://www.arturia.com/products/software-instruments/arp2600v/overview)
 - Synth Strings 1: [Prophet 5v](https://www.arturia.com/products/software-instruments/prophet-5-v/overview)
 - Synth Strings 2: [Augmented Strings](https://www.arturia.com/products/software-instruments/augmented-strings/overview)
 - Synth High Plucked: [Pigments](https://www.arturia.com/products/software-instruments/pigments/overview)
