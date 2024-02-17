@@ -35,6 +35,7 @@ Finntroll1
 - Synth Lead 3: [Pigments](https://www.arturia.com/products/software-instruments/pigments/overview)
 - Synth Pluck: [Surge XT](https://surge-synthesizer.github.io/)
 - Bass: [Kraken Hybrid Bass](https://solemntones.com/products/kraken-hybrid-bass)
+- Drums: [Drums Against Humanity](https://ugritone.com/collections/drums-against-humanity)
 
 ## Lyrics
 ```
