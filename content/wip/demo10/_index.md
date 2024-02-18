@@ -68,7 +68,7 @@ Mix :
   - better progression of whispered vocals on all chorus
   - added volume automation on gras chorus when its alone
   - reduced intro volume (-1db)
-  - reduced chorus volume (-0.3db)
+  - reduced chorus volume (-1db)
   - reduced screams volume (-1db)
   - reduced bridge volume (-1.3db)
   - darker eq on all main bridge vocals
@@ -78,11 +78,13 @@ Mix :
   - reduced toms volume (-1.3db)
   - better eq on toms
   - better compression on toms
+  - increased velocity of midi kick
 - *keys*
   - reduced all keys volume (-1db)
 - *sfx*
   - reduced volume of transition sfx (-2db)
   - reduced the synth sweep even more (-5db total)
+  - increased wind volume in bridge
 
 ### 2024-02-16
 
