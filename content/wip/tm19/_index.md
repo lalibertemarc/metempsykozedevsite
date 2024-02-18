@@ -26,6 +26,16 @@ Metempsykoze - Cold Tomorrow
 - Synth Guitars : [Odin 2](https://solemntones.com/products/odin)
 - Drums: [Drums Against Humanity](https://ugritone.com/collections/drums-against-humanity)
 
+
+### 2024-02-18
+
+- *guitars*
+  - better rythm guitar performance and recording
+  - reduced rythm guitar volume (-2db)
+  - reduced bass volume (-3db)
+- *keys*
+  - reduced volume (-2db)
+
 ### 2024-02-14
 
 - *vocals*
