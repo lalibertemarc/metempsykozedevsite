@@ -55,6 +55,24 @@ Metempsykoze - Blizzard Glacial (?)
 
 ## Changelogs
 
+### 2024-02-18
+
+Mastering :
+
+- added automation on L3 threshold
+
+Mix :
+- *vocals*
+  - better volume automation of high verse
+- *guitars*
+  - reduced volume of bass in intro (-4db)
+- *drums*
+  - reduced volume of kick (-1.4db)
+  - kick volume automation in verse gras part
+  - reduced volume of snare (-2.5db)
+- *sfx*
+  - reduced volume of wind in bridge (-1.5db)
+
 ### 2024-02-17
 
 - Added Mastering
