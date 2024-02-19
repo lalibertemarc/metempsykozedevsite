@@ -59,17 +59,21 @@ Metempsykoze - Blizzard Glacial (?)
 
 Mastering :
 
-- added automation on L3 threshold
+- added automation on L3 threshold and overall less squashed
 
 Mix :
 - *vocals*
   - better volume automation of high verse
 - *guitars*
   - reduced volume of bass in intro (-4db)
+  - better automation of vocal sidechain
+  - clearer eq
+  - closer panning
 - *drums*
   - reduced volume of kick (-1.4db)
   - kick volume automation in verse gras part
   - reduced volume of snare (-2.5db)
+  - reduced oh and room volume 
 - *sfx*
   - reduced volume of wind in bridge (-1.5db)
 
