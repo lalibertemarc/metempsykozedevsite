@@ -11,7 +11,6 @@ draft: false
 
 *in priority order*
 
-- [Demo10](./wip/demo10/)
 - [Tm21](./wip/tm21/)
 - [Tm19](./wip/tm19/)
 - [Demo2](./wip/demo2/)
