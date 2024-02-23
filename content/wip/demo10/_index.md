@@ -10,23 +10,18 @@ demo10
 
 ## Real Title
 
-Metempsykoze - Le Froid (?)
-
-Metempsykoze - Blizzard Glacial (?)
+Metempsykoze - Blizzard Glacial
 
 ## Mastering Chain
 
 - [Frequency](https://steinberg.help/nuendo_plugin_reference/v11/en/_shared/topics/plug_ref/frequency/frequency_r.html)
 - [Puig Tec Eq](https://www.waves.com/plugins/puigtec-eqs)
 - [Quadrafuzz](https://steinberg.help/cubase_plugin_reference/v9/en/_shared/topics/plug_ref/quadrafuzz_v2.html)
-- [Kramer Master Tape](https://www.waves.com/plugins/kramer-master-tape)
 - [H-Comp](https://www.waves.com/plugins/h-comp-hybrid-compressor)
 - [C6](https://www.waves.com/plugins/c6-multiband-compressor)
 - [VComp](https://www.waves.com/plugins/v-comp)
 - [LinMB](https://www.waves.com/plugins/linear-phase-multiband-compressor)
 - [L3](https://www.waves.com/plugins/l3-multimaximizer)
-
-## Notes for mastering
 
 
 ## Vsts 
@@ -54,6 +49,14 @@ Metempsykoze - Blizzard Glacial (?)
 
 
 ## Changelogs
+
+### 2024-02-18
+
+Mastering :
+
+- removed Kramer Master Tape from chain
+  *I felt like the mastering was a bit too bright and agressive. especially in the first verse*
+- adjusted C6 high mids compression
 
 ### 2024-02-18
 
