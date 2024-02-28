@@ -19,6 +19,21 @@ tm21
 
 ## Changelogs
 
+### 2024-02-26
+
+- *vocals*
+  - added vocal template
+
+### 2024-02-25
+
+- *drums*
+  - increased snare volume (+2db)
+  - bette snare compression
+  - increased kick volume (+3db)
+  - increased toms volume(+1db)
+- *guitars*
+  - better guitar compression
+
 ### 2024-02-13
 
 - *guitars*
