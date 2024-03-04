@@ -27,6 +27,20 @@ Metempsykoze - Cold Tomorrow
 - Drums: [Drums Against Humanity](https://ugritone.com/collections/drums-against-humanity)
 
 
+### 2024-03-03
+
+- *vocals*
+  - added all chorus vocal from Sylvain Marquis
+- *guitars*
+  - replaced all rythm guitars with the ones from Sylvain Marquis
+  - adjusted rythm guits eq to fit new tone
+  - added Sylvain's solo at the transition
+- *drums*
+  - removed all compressors on snare
+  - removed compression on kick
+  - added puigtec eq on kick for a 60hz boost and 4khz attenuation
+  - added high pass to 40hz on kick
+
 ### 2024-02-18
 
 - *guitars*
