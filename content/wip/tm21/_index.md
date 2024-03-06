@@ -16,8 +16,16 @@ tm21
 - Synth Guitars : [Odin 2](https://solemntones.com/products/odin)
 - Drums: [Drums Against Humanity](https://ugritone.com/collections/drums-against-humanity)
 
-
 ## Changelogs
+
+### 2024-03-05
+
+- *guitars*
+  - better edit of the bass
+  - better edit of the clean guitars
+- *drums*
+  - removed c1 from snare
+  - adjusted volume of snare accordingly
 
 ### 2024-02-26
 
