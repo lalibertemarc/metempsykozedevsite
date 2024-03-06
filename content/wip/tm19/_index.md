@@ -27,6 +27,12 @@ Metempsykoze - Cold Tomorrow
 - Drums: [Drums Against Humanity](https://ugritone.com/collections/drums-against-humanity)
 
 
+### 2024-03-04
+
+- *guitars*
+  - better bass edit
+  - higher high pass on main sylvain solo
+
 ### 2024-03-03
 
 - *vocals*
