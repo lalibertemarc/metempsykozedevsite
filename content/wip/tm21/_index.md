@@ -18,6 +18,23 @@ tm21
 
 ## Changelogs
 
+### 2024-03-09
+
+- *drums*
+  - replaced kick frequency over bass by trackspacer
+  - adjusted kick puigtech low boost
+  - added sslcomp on toms bus
+  - added sslcomp on drums bus
+- *keys*
+  - replaced arp frequency over pads by trackspacer
+- *guitars*
+  - added trackspacer on rythm guitar triggered from lead guitars
+
+### 2024-03-06
+
+- *vocals*
+  - changed some chorus wording
+
 ### 2024-03-05
 
 - *guitars*
