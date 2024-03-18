@@ -12,11 +12,16 @@ draft: false
 *in priority order*
 
 - [Tm21](./wip/tm21/)
-- [Tm19](./wip/tm19/)
-- [Demo2](./wip/demo2/)
+- [Tm19](./wip/tm19/) feat Sylvain Marquis (also mixed by)
+- [Demo2](./wip/demo2/) feat Jack Quand
 - [Dream](./wip/dream/)
-- [OrBleu](./wip/orbleu/)
+- Demo1 feat Will Paré
+- Flashback
+- Tm31
 - [Demo5](./wip/demo5/)
+- Tm30
+- [OrBleu](./wip/orbleu/)
+
 
 ## Backlog
 
