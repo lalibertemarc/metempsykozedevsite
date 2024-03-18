@@ -13,7 +13,7 @@ draft: false
 
 - [Tm21](./wip/tm21/)
 - [Tm19](./wip/tm19/) feat Sylvain Marquis (also mixed by)
-- [Demo2](./wip/demo2/) feat Jack Quand
+- [Demo2](./wip/demo2/) feat Jack Quan
 - [Dream](./wip/dream/)
 - Demo1 feat Will Paré
 - Flashback
@@ -21,11 +21,3 @@ draft: false
 - [Demo5](./wip/demo5/)
 - Tm30
 - [OrBleu](./wip/orbleu/)
-
-
-## Backlog
-
-- [Tm27](./wip/tm27/)
-- [Tm20](./wip/tm20/)
-- [Tm26](./wip/tm26/)
-- [Tm7](./wip/tm7/)
