@@ -8,6 +8,17 @@ draft: false
 
 tm21
 
+## Real Title
+
+Metempsykoze - Chasing the Sun
+
+## Main Mix Chain:
+
+- [NLS Bus](https://www.waves.com/plugins/nls-non-linear-summer)
+- [Frequency](https://steinberg.help/nuendo_plugin_reference/v11/en/_shared/topics/plug_ref/frequency/frequency_r.html)
+- [Quadrafuzz](https://steinberg.help/cubase_plugin_reference/v9/en/_shared/topics/plug_ref/quadrafuzz_v2.html)
+- [SSL Comp](https://www.waves.com/plugins/ssl-g-master-buss-compressor)
+
 ## Vsts 
 
 - Synth Pad High:  [Solina-v](https://www.arturia.com/products/software-instruments/solina-v/overview)
@@ -16,7 +27,61 @@ tm21
 - Synth Guitars : [Odin 2](https://solemntones.com/products/odin)
 - Drums: [Drums Against Humanity](https://ugritone.com/collections/drums-against-humanity)
 
+## Main Vocal Chain:
+
+- [Frequency](https://steinberg.help/nuendo_plugin_reference/v11/en/_shared/topics/plug_ref/frequency/frequency_r.html)
+- [DeEsser](https://steinberg.help/cubase_plugin_reference/v9/en/_shared/topics/plug_ref/deesser_r.html)
+- [RVox](https://www.waves.com/plugins/renaissance-vox)
+- [Smooth Operator](https://babyaud.io/smooth-operator-plugin)
+- [CLA-76](https://www.waves.com/plugins/cla-76-compressor-limiter)
+
 ## Changelogs
+
+### 2024-03-17
+
+- *guitars*
+  - reduced fx guitars volume (-2db)
+  - better trackspacer for bass
+  - increased 60hz boost on bass
+  - recuded rythm guitar volume (-1db)
+- *vocals*
+  - removed more silence and more fades in and out
+  - more verb in verse
+  - more delay in chorus
+
+### 2024-03-16
+
+- *mix*
+  - added tube (quadrafuzz) on low end
+- *vocals*
+  - removed vocoder
+  - better vox verb
+  - adjusted compressions on verses
+  - duplicated stew backs
+  - better back panning and volume
+- *guitars*
+  - better eq on fx guitars
+  - better trackspacer settings for bass from kick
+  - added puigtech eq on bass and boost on 60hz
+  - adjusted bass volume accordingly
+  - added bass in NLS summing
+  - added volume automation on clean guit
+  - ajusted high pass on rythm guitars
+- *drums*
+  - better compression on snare
+  - reduced snare volume (-5db)
+
+### 2024-03-15
+
+- *mix*
+  - added nls bus
+  - added frequency
+  - added quadrafuzz
+  - added sslComp
+- *vocals*
+  - added all vocals
+  - added vocoder
+  - added trackspacer over guitars
 
 ### 2024-03-09
 
