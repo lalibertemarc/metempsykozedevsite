@@ -37,6 +37,17 @@ Metempsykoze - Chasing the Sun
 
 ## Changelogs
 
+### 2024-03-19
+
+(after a listen on my cell yesterday, the kick was way too thin and the vocals seem too loud)
+
+- *vocals*
+  - reduced volume (-2db)
+- *drums*
+  - added rbass on kick
+  - reduced high boost on puigtec
+  - adjusted volume accordingly (-1.5db)
+
 ### 2024-03-18
 
 - *guitars*
