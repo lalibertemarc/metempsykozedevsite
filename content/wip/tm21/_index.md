@@ -37,6 +37,15 @@ Metempsykoze - Chasing the Sun
 
 ## Changelogs
 
+### 2024-03-18
+
+- *guitars*
+  - better edit of main rythm guitars
+- *vocals*
+  - reduced reverb in verse (-2db)
+- *keys*
+  - increased pads volume in break
+
 ### 2024-03-17
 
 - *guitars*
