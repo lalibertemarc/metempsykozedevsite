@@ -43,10 +43,13 @@ Metempsykoze - Chasing the Sun
 
 - *vocals*
   - reduced volume (-2db)
+  - increase chorus volume to compensate (+1.5db)
+  - better edit to fix "it's always stays afar"
 - *drums*
   - added rbass on kick
   - reduced high boost on puigtec
   - adjusted volume accordingly (-1.5db)
+  - reduced ny compression volume (-2db)
 
 ### 2024-03-18
 
