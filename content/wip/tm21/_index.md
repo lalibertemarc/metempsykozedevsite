@@ -14,6 +14,7 @@ Metempsykoze - Chasing the Sun
 
 ## Mastering Chain
 
+- API-560
 - Kramer Master Tape
 - HComp
 - C6
@@ -45,6 +46,18 @@ Metempsykoze - Chasing the Sun
 - [CLA-76](https://www.waves.com/plugins/cla-76-compressor-limiter)
 
 ## Changelogs
+
+### 2024-03-21
+
+*Mastering*:
+  - added api-560 to chain, boosting 120hz, dipping 2k and 4k
+  - adjusted C6 and LinMB to compress a bit more around 3k
+
+*Mix* :
+  - *guitars*
+    - fixed glitch in fx guitars creating crackles
+    - better ryhtm guitar edit
+    - reduced mid and high frequencies in OTT from Transit
 
 ### 2024-03-20
 
