@@ -12,6 +12,15 @@ tm21
 
 Metempsykoze - Chasing the Sun
 
+## Mastering Chain
+
+- Kramer Master Tape
+- HComp
+- C6
+- VComp
+- LinMB
+- L3 Multimaximizer
+
 ## Main Mix Chain:
 
 - [NLS Bus](https://www.waves.com/plugins/nls-non-linear-summer)
@@ -37,6 +46,18 @@ Metempsykoze - Chasing the Sun
 
 ## Changelogs
 
+### 2024-03-20
+
+- Started mastering
+
+Mix :
+  - *guitars*
+    - increase clarity on rythm guitars
+  - *keyboards*
+    - re-exported synth arp to eliminate crackles
+  - *vocals*
+    - reduced delay feedback
+
 ### 2024-03-19
 
 (after a listen on my cell yesterday, the kick was way too thin and the vocals seem too loud)
@@ -45,8 +66,11 @@ Metempsykoze - Chasing the Sun
   - reduced volume (-2db)
   - increase chorus volume to compensate (+1.5db)
   - better edit to fix "it's always stays afar"
+- *guitars*
+  - added smooth operator on all fx guitars
 - *drums*
   - added rbass on kick
+  - added automation on rbass when the kick goes double
   - reduced high boost on puigtec
   - adjusted volume accordingly (-1.5db)
   - reduced ny compression volume (-2db)
