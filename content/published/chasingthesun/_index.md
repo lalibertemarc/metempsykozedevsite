@@ -1,8 +1,14 @@
 ---
-title: "Tm21"
+title: "Chasing The Sun"
 date: 2024-01-06T15:00:32-05:00
 draft: false
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m8fJajcGwUQ?si=-D48GT4LQdCBC-XW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Publish Date
+
+2024-03-24
 
 ## Working Title
 
@@ -47,6 +53,19 @@ Metempsykoze - Chasing the Sun
 
 ## Changelogs
 
+### 2024-03-24
+
+*Mastering*:
+  - changed kramer tape to be less bright
+  - reduce high mids gain in C6 and LinMB
+  - C6 and LinMB are compressing the highs a little bit
+
+*Mix*:
+  - *Vocals*
+    - Better panning and eq on stews vocals
+    - increase delay and reverd on stews vocals
+    - adjusted stews volume accordingly (-3bd)
+
 ### 2024-03-21
 
 *Mastering*:
@@ -54,6 +73,12 @@ Metempsykoze - Chasing the Sun
   - adjusted C6 and LinMB to compress a bit more around 3k
 
 *Mix* :
+  - *vocals*
+    - adedd vocal ride on verses
+  - *drums*
+    - reduced rbass intensity where the kick is slow (-2.5db)
+  - *keys*
+    - re-exported pads to have tail
   - *guitars*
     - fixed glitch in fx guitars creating crackles
     - better ryhtm guitar edit
@@ -66,7 +91,7 @@ Metempsykoze - Chasing the Sun
 Mix :
   - *guitars*
     - increase clarity on rythm guitars
-  - *keyboards*
+  - *keys*
     - re-exported synth arp to eliminate crackles
   - *vocals*
     - reduced delay feedback

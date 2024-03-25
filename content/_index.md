@@ -11,7 +11,6 @@ draft: false
 
 *in priority order*
 
-- [Tm21](./wip/tm21/)
 - [Tm19](./wip/tm19/) feat Sylvain Marquis (also mixed by)
 - [Demo2](./wip/demo2/) feat Jack Quan
 - [Dream](./wip/dream/)

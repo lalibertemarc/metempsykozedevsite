@@ -4,6 +4,7 @@ date: 2024-01-06T13:19:59-05:00
 draft: false
 ---
 
+- 2024-03-24 : [Chasing the Sun](./chasingthesun/)
 - 2024-02-23 : [Blizzard Glacial](./blizzardglacial/)
 - 2024-01-21 : [Anhedonia](./anhedonia/)
 - 2023-09-12 : [Ma Chasse Gallerie](./machassegallerie/) 
