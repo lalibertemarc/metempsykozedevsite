@@ -6,6 +6,11 @@ draft: false
 
 ## Changelogs
 
+### 2024-04-14
+
+- better sound for slap bass
+- added korg triton vst
+
 ### 2024-01-12
 
 - better bass performance in the intro
