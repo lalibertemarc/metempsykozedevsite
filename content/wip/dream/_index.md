@@ -6,6 +6,17 @@ draft: false
 
 ## Changelogs
 
+### 2024-04-16
+
+- *guitars*
+  - edited bass performance
+  - blended some old pass performance for some octaver effect
+
+### 2024-04-15
+
+- *guitars*
+  - re-recorded (again) bass performance with new ibanez
+
 ### 2024-04-14
 
 - better sound for slap bass
