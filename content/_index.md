@@ -14,7 +14,7 @@ draft: false
 - [Tm19](./wip/tm19/) feat Sylvain Marquis (also mixed by)
 - [Demo2](./wip/demo2/) feat Jack Quan
 - [Dream](./wip/dream/) feat Maryse Saint-Onge
-- Demo1 feat Will Paré
+- [Demo1](./wip/demo1/) feat Will Paré
 - Flashback
 - Tm29
 - Tm31
