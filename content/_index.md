@@ -16,7 +16,7 @@ draft: false
 - [Dream](./wip/dream/) feat Maryse Saint-Onge
 - [Demo1](./wip/demo1/) feat Will Paré
 - Flashback
-- Tm29
+- [Tm29](./wip/tm29/)
 - Tm31
 - [Demo5](./wip/demo5/)
 - Tm30
