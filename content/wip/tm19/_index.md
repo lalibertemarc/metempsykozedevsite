@@ -26,6 +26,10 @@ Metempsykoze - Cold Tomorrow
 - Synth Guitars : [Odin 2](https://solemntones.com/products/odin)
 - Drums: [Drums Against Humanity](https://ugritone.com/collections/drums-against-humanity)
 
+### 2024-04-28
+
+- MIX 1 by Sylvain is now available
+
 ### 2024-04-15
 
 - *vocals*
