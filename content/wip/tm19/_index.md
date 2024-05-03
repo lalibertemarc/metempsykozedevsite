@@ -21,10 +21,15 @@ Metempsykoze - Cold Tomorrow
 - Synth Arp : [Prophet 5v](https://www.arturia.com/products/software-instruments/prophet-5-v/overview)
 - Synth Plucked : [Surge XT](https://surge-synthesizer.github.io/)
 - Synth Bells : [Pigments](https://www.arturia.com/products/software-instruments/pigments/overview)
-- Piano : [Piano V](https://www.arturia.com/products/software-instruments/piano-v/overview)
+- Piano - Steinway D : [EW Piano Gold](https://www.arturia.com/products/software-instruments/piano-v/overview)
 - Choir : [EW Symphonic Choirs Gold](https://www.soundsonline.com/vocals/symphonic-choirs)
 - Synth Guitars : [Odin 2](https://solemntones.com/products/odin)
 - Drums: [Drums Against Humanity](https://ugritone.com/collections/drums-against-humanity)
+
+
+### 2024-05-02
+
+- MIX 1 is updated with vocals
 
 ### 2024-04-28
 
