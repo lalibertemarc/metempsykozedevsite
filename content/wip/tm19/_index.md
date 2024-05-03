@@ -26,6 +26,19 @@ Metempsykoze - Cold Tomorrow
 - Synth Guitars : [Odin 2](https://solemntones.com/products/odin)
 - Drums: [Drums Against Humanity](https://ugritone.com/collections/drums-against-humanity)
 
+### 2024-05-03
+
+MIX 2 is up
+
+- *general*
+  - Modifié le reverb au complet
+- *keys*
+  - Low pass piano intro
+- *drums*
+  - Low pass, moins d’attaque baissé volume snare verse 
+- *vocals*
+  - Low pass vocal clean lead verse 2eme partie et bridge
+  - Mute AlterBoy vox growl verse 1 et 1ere partie du bridge
 
 ### 2024-05-02
 
