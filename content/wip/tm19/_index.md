@@ -12,8 +12,6 @@ tm19
 
 Metempsykoze - Cold Tomorrow
 
-## Changelogs
-
 ## Vsts 
 
 - Synth Bass : [Jup-8v](https://www.arturia.com/products/software-instruments/jup-8-v/overview)
@@ -26,11 +24,14 @@ Metempsykoze - Cold Tomorrow
 - Synth Guitars : [Odin 2](https://solemntones.com/products/odin)
 - Drums: [Drums Against Humanity](https://ugritone.com/collections/drums-against-humanity)
 
+## Changelogs
+
 ### 2024-05-03
 
 **MIX 3**
 
 notes :
+
 - Je pense que je vais modifier le snare dans le verse aussi… trop agressif encore
 - descendre encore le growl dans les verses
 
