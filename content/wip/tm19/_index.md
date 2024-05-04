@@ -28,7 +28,25 @@ Metempsykoze - Cold Tomorrow
 
 ### 2024-05-03
 
-MIX 2 is up
+**MIX 3**
+
+notes :
+- Je pense que je vais modifier le snare dans le verse aussi… trop agressif encore
+- descendre encore le growl dans les verses
+
+- *keys*
+  - Low pass encore plus le piano
+- *guitars*
+  - Baissé la bass dans la 1ere partie des verses
+  - added reverb on leads
+  - better edit on ryhtm at the start
+- *drums*
+  - Refait le reverb du snare et baissé le volume mais monté volume et reverb dans l’after chorus
+  - added reverb on toms
+- *vocals*
+  - lowered volume of clean in verse 1
+
+**MIX 2**
 
 - *general*
   - Modifié le reverb au complet
@@ -38,6 +56,7 @@ MIX 2 is up
   - Low pass, moins d’attaque baissé volume snare verse 
 - *vocals*
   - Low pass vocal clean lead verse 2eme partie et bridge
+  - better edit on vocals at the end to remove T's
   - Mute AlterBoy vox growl verse 1 et 1ere partie du bridge
 
 ### 2024-05-02
