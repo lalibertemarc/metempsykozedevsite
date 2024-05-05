@@ -12,6 +12,17 @@ tm19
 
 Metempsykoze - Cold Tomorrow
 
+## Mastering Chain
+
+- Imager
+- API-550A
+- Kramer Master Tape
+- HComp
+- C6
+- VComp
+- LinMB
+- L3 Multimaximizer
+
 ## Vsts 
 
 - Synth Bass : [Jup-8v](https://www.arturia.com/products/software-instruments/jup-8-v/overview)
@@ -25,6 +36,10 @@ Metempsykoze - Cold Tomorrow
 - Drums: [Drums Against Humanity](https://ugritone.com/collections/drums-against-humanity)
 
 ## Changelogs
+
+### 2024-05-05
+
+- Added Mastering 1
 
 ### 2024-05-03
 

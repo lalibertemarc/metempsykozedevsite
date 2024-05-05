@@ -17,7 +17,7 @@ draft: false
 - [Demo1](./wip/demo1/) feat Will Paré
 - Flashback
 - [Tm29](./wip/tm29/)
-- Tm31
 - [Demo5](./wip/demo5/)
 - Tm30
+- Tm31
 - [OrBleu](./wip/orbleu/)
