@@ -37,6 +37,26 @@ Metempsykoze - Cold Tomorrow
 
 ## Changelogs
 
+### 2024-05-06
+
+**MIX 4**
+
+- *drums*
+  - [x] Snare in verse less aggressive
+  - [x] More reverb on snare after chorus
+  - [x] Hihat too loud in interlude
+  - [x] added room sound to snare
+- *guitars*
+  - [x] Annoying frequency in guitar 5kHz MID reduced by 2dB
+- *vocals*
+  - [x] Increased low-end in back low bridge, adjusted the filter slope
+  - [x] More reverb on clean vocals
+  - [x] Adjusted volumes of vocal chorus
+  - [x] Removed 6.5kHz MID in growl
+  - [x] Added Vox De-esser
+- *general*
+  - [x] The note at the beginning of verse 1 (bell) and 2 (guitar lead)
+
 ### 2024-05-05
 
 - Added Mastering 1
@@ -45,35 +65,36 @@ Metempsykoze - Cold Tomorrow
 
 **MIX 3**
 
+- *keys*
+  - Lowered low pass even more on the piano
+- *guitars*
+  - Reduced the bass in the first part of the verses
+  - Added reverb on leads
+  - Improved editing on rhythm at the start
+- *drums*
+  - Redid the reverb on the snare, lowered the volume but increased volume and reverb in the after chorus
+  - Added reverb on toms
+- *vocals*
+  - Lowered volume of clean vocals in verse 1
+
+
 notes :
 
 - Je pense que je vais modifier le snare dans le verse aussi… trop agressif encore
-- descendre encore le growl dans les verses
-
-- *keys*
-  - Low pass encore plus le piano
-- *guitars*
-  - Baissé la bass dans la 1ere partie des verses
-  - added reverb on leads
-  - better edit on ryhtm at the start
-- *drums*
-  - Refait le reverb du snare et baissé le volume mais monté volume et reverb dans l’after chorus
-  - added reverb on toms
-- *vocals*
-  - lowered volume of clean in verse 1
+- ~~descendre encore le growl dans les verses~~
 
 **MIX 2**
 
 - *general*
-  - Modifié le reverb au complet
+  - Completely modified the reverb
 - *keys*
-  - Low pass piano intro
+  - Low pass on piano intro
 - *drums*
-  - Low pass, moins d’attaque baissé volume snare verse 
+  - Low pass, reduced attack, lowered volume of snare in verse
 - *vocals*
-  - Low pass vocal clean lead verse 2eme partie et bridge
-  - better edit on vocals at the end to remove T's
-  - Mute AlterBoy vox growl verse 1 et 1ere partie du bridge
+  - Low pass on clean vocal lead in the second part of verse and bridge
+  - Improved vocal editing at the end to remove T's
+  - Muted AlterBoy on vocals growl in verse 1 and the first part of the bridge
 
 ### 2024-05-02
 
