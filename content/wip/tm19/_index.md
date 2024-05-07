@@ -14,6 +14,7 @@ Metempsykoze - Cold Tomorrow
 
 ## Mastering Chain
 
+- Pro Q-3
 - Imager
 - API-550A
 - Kramer Master Tape
@@ -36,6 +37,18 @@ Metempsykoze - Cold Tomorrow
 - Drums: [Drums Against Humanity](https://ugritone.com/collections/drums-against-humanity)
 
 ## Changelogs
+
+### 2024-05-07
+
+*MASTERING 2*
+
+- better fadeout
+- increased attack on H-Comp to compensate for new snare sound
+- added high pass from pro q3
+- better L3 automation to compensate for loudness
+- -2db 50hz on api-550A
+- slight high mid compression on LinMB
+- better xover on LinMB
 
 ### 2024-05-06
 
