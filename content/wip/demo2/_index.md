@@ -25,6 +25,38 @@ Metempsykoze - Roteux
 
 ## Changelogs
 
+### 2024-05-07
+
+- *vocals*
+  - better automation on jack volume
+  - added stew
+- *guitars*
+  - better edit on jack
+  - added trackspacer on bass from kick
+  - adjusted volume and eq on all rythm
+- *keys*
+  - added decapitator on shot strings
+
+### 2024-05-06
+- *guitars*
+  - better edit on marc
+  - better edit on jack
+- *vocals*
+  - better automation on jack volume, alter boy and microshift
+
+### 2024-05-05
+
+- *vocals*
+  - better vocal edit on jack and marc
+  - automation on jack alter boy
+  - better mix of marc lows
+  - automation on marc high
+- *guitars*
+  - better edit on marc
+  - added trackspacer for vocal
+- *drums*
+  - added oneshot sample on snare to get darker tone
+
 ### 2024-05-04
 
 - Started Mix Session
