@@ -12,6 +12,12 @@ demo2
 
 Metempsykoze - Roteux
 
+## Main Mix Chain:
+
+- [NLS Bus](https://www.waves.com/plugins/nls-non-linear-summer)
+- [Pro Q-3](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in)
+- [SSL Comp](https://www.waves.com/plugins/ssl-g-master-buss-compressor)
+
 ## Vsts
 
 - Organ : [Leeds Town Hall Organ](https://www.samplephonics.com/products/free/sampler-instruments/the-leeds-town-hall-organ)
@@ -25,6 +31,26 @@ Metempsykoze - Roteux
 
 ## Changelogs
 
+### 2024-05-08
+
+- *mix*
+  - added sslcomp on mix bus
+  - added nls bus on mix bus
+- *vocals*
+  - added super plate verb
+  - added h-delay
+  - added trackspacer on both from vocals
+  - some better edit on all vocals in bridge
+  - better eq and compression on jack backs
+- *guits*
+  - replaced frequency by pro-q3 for palm mute dyn eq
+  - added super plate verb
+- *drums*
+  - added sslcomp on drum bus
+  - better eq on snare
+  - reduced snare volume (-3db)
+  - better eq on room channels
+
 ### 2024-05-07
 
 - *vocals*
@@ -35,7 +61,7 @@ Metempsykoze - Roteux
   - added trackspacer on bass from kick
   - adjusted volume and eq on all rythm
 - *keys*
-  - added decapitator on shot strings
+  - added decapitator on short strings
 
 ### 2024-05-06
 - *guitars*
