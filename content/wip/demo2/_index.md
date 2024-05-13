@@ -20,16 +20,33 @@ Metempsykoze - Roteux
 
 ## Vsts
 
-- Organ : [Leeds Town Hall Organ](https://www.samplephonics.com/products/free/sampler-instruments/the-leeds-town-hall-organ)
+- Organ 1: [Leeds Town Hall Organ](https://www.samplephonics.com/products/free/sampler-instruments/the-leeds-town-hall-organ)
+- Organ 2 : [Omnisphere](https://www.spectrasonics.net/products/omnisphere/index.php)
 - Synth Organ : [Korg Triton](https://www.korg.com/us/products/software/kc_triton/)
-- Choir: [EW Symphonic Choirs Gold](https://www.soundsonline.com/vocals/symphonic-choirs)
+- Choir 1: [EW Symphonic Choirs Gold](https://www.soundsonline.com/vocals/symphonic-choirs)
+- Choir 2 : [Omnisphere](https://www.spectrasonics.net/products/omnisphere/index.php)
 - Synth Choir : [Korg Triton](https://www.korg.com/us/products/software/kc_triton/)
 - Piano : [Piano V](https://www.arturia.com/products/software-instruments/piano-v/overview)
+- Magic Piano : [Omnisphere](https://www.spectrasonics.net/products/omnisphere/index.php)
 - Synth Bells : [Korg Triton](https://www.korg.com/us/products/software/kc_triton/)
-- Strings Long : [EW Symphonic Orchestra Gold](https://www.soundsonline.com/orchestral/symphonic-orchestra)
-- Strings Short : [Iconica Sketch](https://www.steinberg.net/vst-instruments/iconica-sketch/)
+- Synth Lead : [Omnisphere](https://www.spectrasonics.net/products/omnisphere/index.php)
+- Synth Plucked : [Omnisphere](https://www.spectrasonics.net/products/omnisphere/index.php)
+- Strings Legatos: [EW Symphonic Orchestra Gold](https://www.soundsonline.com/orchestral/symphonic-orchestra)
+- Violins Marcatos : [EW Symphonic Orchestra Gold](https://www.soundsonline.com/orchestral/symphonic-orchestra)
+- Violas Marcatos : [Iconica Sketch](https://www.steinberg.net/vst-instruments/iconica-sketch/)
+- Percs : [Damage](https://heavyocity.com/product/damage/)
 
 ## Changelogs
+
+### 2024-05-13
+
+- *keys*
+  - redid all keys and arrangements
+- *vocals*
+  - increased volume (+2db)
+- *guitars*
+  - added transition phaser
+  - added automation in verb
 
 ### 2024-05-08
 
