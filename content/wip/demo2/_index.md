@@ -12,9 +12,21 @@ demo2
 
 Metempsykoze - Roteux
 
-## Main Mix Chain:
+
+## Mastering Chain
+
+- API-560
+- Kramer Master Tape
+- HComp
+- C6
+- VComp
+- LinMB
+- L3 Multimaximizer
+
+## Mix Chain:
 
 - [NLS Bus](https://www.waves.com/plugins/nls-non-linear-summer)
+- [Imager]
 - [Pro Q-3](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in)
 - [SSL Comp](https://www.waves.com/plugins/ssl-g-master-buss-compressor)
 
@@ -38,13 +50,44 @@ Metempsykoze - Roteux
 
 ## Changelogs
 
+### 2024-05-20
+
+- *mastering*
+  - started mastering
+
+### 2024-05-18
+
+- *mix*
+  - added image on mix bus
+- *keys*
+  - better eq, compression and automation on overall keys
+  - added reverb on keys
+- *vocals*
+  - slight augmentation in volume
+  - better edit on vocals
+
+### 2024-05-14
+
+- *drums*
+  - better toms and equing
+  - added NY comp on shells
+- *vocals*
+  - added chamber on marc and jac
+  - reduced volume slightly on all vox
+- *keys*
+  - volume slightly
+  - increased choir in bridge B
+  - increased organ in bridge B
+
 ### 2024-05-13
 
 - *keys*
   - redid all keys and arrangements
 - *vocals*
   - increased volume (+2db)
+  - better jack edits
 - *guitars*
+  - better jack edits
   - added transition phaser
   - added automation in verb
 
