@@ -12,7 +12,6 @@ demo2
 
 Metempsykoze - Roteux
 
-
 ## Mastering Chain
 
 - API-560
@@ -26,7 +25,7 @@ Metempsykoze - Roteux
 ## Mix Chain:
 
 - [NLS Bus](https://www.waves.com/plugins/nls-non-linear-summer)
-- [Imager]
+- [Imager](https://steinberg.help/nuendo_plugin_reference/v11/en/_shared/topics/plug_ref/imager_r.html)
 - [Pro Q-3](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in)
 - [SSL Comp](https://www.waves.com/plugins/ssl-g-master-buss-compressor)
 
@@ -44,7 +43,7 @@ Metempsykoze - Roteux
 - Synth Lead : [Omnisphere](https://www.spectrasonics.net/products/omnisphere/index.php)
 - Synth Plucked : [Omnisphere](https://www.spectrasonics.net/products/omnisphere/index.php)
 - Strings Legatos: [EW Symphonic Orchestra Gold](https://www.soundsonline.com/orchestral/symphonic-orchestra)
-- Violins Marcatos : [EW Symphonic Orchestra Gold](https://www.soundsonline.com/orchestral/symphonic-orchestra)
+- Violins Matyporcatos : [EW Symphonic Orchestra Gold](https://www.soundsonline.com/orchestral/symphonic-orchestra)
 - Violas Marcatos : [Iconica Sketch](https://www.steinberg.net/vst-instruments/iconica-sketch/)
 - Percs : [Damage](https://heavyocity.com/product/damage/)
 
