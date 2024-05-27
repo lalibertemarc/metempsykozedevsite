@@ -14,9 +14,8 @@ Metempsykoze - Cold Tomorrow
 
 ## Mastering Chain
 
-- Pro Q-3
 - Imager
-- API-550A
+- API-660
 - Kramer Master Tape
 - HComp
 - C6
@@ -39,6 +38,16 @@ Metempsykoze - Cold Tomorrow
 ## Changelogs
 
 ### 2024-05-27
+
+Mastering 4
+
+- On C6, increased 120hz(kick) and decreased 4k(guitars)
+- Adjusted LinMB accordingly
+- better l3 automation on bridge start (marching part)
+- slight compression on 4k-11k with on LinMB
+- replace api-550a by api-560
+- +1db on 8k on api-560, +1db on 16khz
+- increased l3 threshold accordingly
 
 MIX5
 
