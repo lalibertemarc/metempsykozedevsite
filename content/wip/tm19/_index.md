@@ -38,6 +38,23 @@ Metempsykoze - Cold Tomorrow
 
 ## Changelogs
 
+### 2024-05-27
+
+MIX5
+
+- *vocals*
+  - +2db 7.5khz large on main clean vocal
+  - -2db 450hz on main clean vocal
+- *drums*
+  - removed low pass on OHs
+  - -5db on floor toms in verses
+
+### 2024-05-20
+
+- *mastering*
+  - adjusted v-comp settings to compress less
+  - adjusted l3 automation accordingly
+
 ### 2024-05-07
 
 *MASTERING 2*
