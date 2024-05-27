@@ -15,7 +15,7 @@ Metempsykoze - Cold Tomorrow
 ## Mastering Chain
 
 - Imager
-- API-660
+- API-560
 - Kramer Master Tape
 - HComp
 - C6
@@ -41,6 +41,7 @@ Metempsykoze - Cold Tomorrow
 
 Mastering 4
 
+- Centered low-end on imager
 - On C6, increased 120hz(kick) and decreased 4k(guitars)
 - Adjusted LinMB accordingly
 - better l3 automation on bridge start (marching part)
