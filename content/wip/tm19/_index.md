@@ -21,6 +21,7 @@ Metempsykoze - Cold Tomorrow
 - C6
 - VComp
 - LinMB
+- APU Loudness Compressor
 - L3 Multimaximizer
 
 ## Vsts 
@@ -36,6 +37,12 @@ Metempsykoze - Cold Tomorrow
 - Drums: [Drums Against Humanity](https://ugritone.com/collections/drums-against-humanity)
 
 ## Changelogs
+
+### 2024-05-30
+
+Mastering 5
+
+- Removed all L3 Automation by APU Loudness Compressor
 
 ### 2024-05-27
 
