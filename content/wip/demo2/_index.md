@@ -50,10 +50,17 @@ Metempsykoze - Roteux
 
 ## Changelogs
 
-### 2024-05-20
+### 2024-05-31
 
-- *mastering*
-  - started mastering
+
+Mix3
+
+- *keys*
+  - increased volume (2 db)
+  - removed center from keys channel
+  - added trackspacer from vocals
+- *vocals*
+  - decreased overall volume (-2db)
 
 ### 2024-05-30
 
@@ -64,7 +71,7 @@ Mastering2
 Mix2
 
 - *keys*
-  - decreased overall volume (-5db)
+  - decreased overall volume (-2db)
 - *vocals*
   - increased overall volume (+0.4db)
 - *guitars*
@@ -80,6 +87,11 @@ Mix2
 - *vocals*
   - slight augmentation in volume
   - better edit on vocals
+
+### 2024-05-20
+
+- *mastering*
+  - started mastering
 
 ### 2024-05-14
 
