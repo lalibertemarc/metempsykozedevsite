@@ -20,6 +20,7 @@ Metempsykoze - Roteux
 - C6
 - VComp
 - LinMB
+- APU Loudness Compressor
 - L3 Multimaximizer
 
 ## Mix Chain:
@@ -53,6 +54,21 @@ Metempsykoze - Roteux
 
 - *mastering*
   - started mastering
+
+### 2024-05-30
+
+Mastering2
+
+- replaced all L3 automation with APU Loudness Compressor
+
+Mix2
+
+- *keys*
+  - decreased overall volume (-5db)
+- *vocals*
+  - increased overall volume (+0.4db)
+- *guitars*
+  - increase trackspacer amount from vocal
 
 ### 2024-05-18
 
