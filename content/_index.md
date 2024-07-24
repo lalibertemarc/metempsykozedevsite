@@ -11,9 +11,8 @@ draft: false
 
 *in priority order*
 
-- [Demo2](./wip/demo2/) feat Jack Quan
-- [Dream](./wip/dream/)
 - [Demo1](./wip/demo1/) feat Will Paré
+- [Dream](./wip/dream/)
 - Flashback
 - [Tm29](./wip/tm29/)
 - [Demo5](./wip/demo5/)
